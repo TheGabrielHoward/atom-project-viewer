@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const model = require('./model');
 
-const PACKAGE_NAME = 'Project-Viewer';
+const PACKAGE_NAME = 'Favourites';
 const WORKSPACE_URI = 'atom://atom-project-viewer';
 let KEEP_CONTEXT = false;
 

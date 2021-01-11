@@ -320,7 +320,7 @@ const initialize = function _initialize () {
 
   let panelHeading = document.createElement('h2');
   panelHeading.classList.add('heading');
-  panelHeading.textContent = 'Project-Viewer';
+  panelHeading.textContent = 'Favourites';
 
   let panelBody = document.createElement('div');
   panelBody.classList.add('body-content');
